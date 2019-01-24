@@ -1,4 +1,7 @@
 # Morse1
+Elbaorado por: José Osmar Bautista García
+Correo: jose.baug98@gmail.com
+
 Elaborar un programa de consola Java, que traduzca texto a código morse y viceversa. tomando en cuenta las siguientes consideraciones: 
 • Cada letra (en morse) será separada con un espacio, por ejemplo: HOY=…. --- -.-- 
 • Cada palabra (en morse) será separada por 3 espacios, por ejemplo HOY ES =…. --- -.-- . …
